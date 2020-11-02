@@ -5,6 +5,8 @@ high school student in korea
 [![](https://telegram.org/img/t_logo.svg?1)](tg://resolve?domain=djdisodo1) <- click
 
 dash: XmhPpnSxfcpbiaVrK72po74bXgAQNHMfEH (DSH) <- i have no money
+
+
 twitter: @djdisodo1
 
 

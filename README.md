@@ -10,6 +10,6 @@ dash: XmhPpnSxfcpbiaVrK72po74bXgAQNHMfEH (DSH) <- i have no money
 twitter: @djdisodo1
 
 
-![](https://i.pinimg.com/736x/44/90/98/44909877893c405f619b2e4966cc57f4.jpg)
+![](https://github.com/djdisodo/djdisodo/raw/master/nothing%20but.jpg)
 
 [see more](https://www.youtube.com/watch?v=dQw4w9WgXcQ "see more")

@@ -1,1 +1,3 @@
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: 100%; width: 100vw; opacity: 1; background: url('https://github.com/Kintiru/Kintiru/blob/main/GPeEpb-aoAAMVRH.jpg?raw=true'); background-repeat: repeat; background-position: center; margin: 0;]{x0000}$}
+```math
+\ce{$&#x5C;unicode[inherit; pointer-events: none; z-index: 10000000; position: fixed; inset: 0; width:100vw; height: 100vh; background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E %3Cstyle%3E * { background: red !important; } %3C/style%3E %3C/svg%3E");
+]{x0000}$}
